@@ -1,0 +1,13 @@
+# Mean Variance Standard Deviation Calculator
+
+This project is part of the freeCodeCamp Data Analysis with Python Certification.
+
+It uses NumPy to calculate:
+- Mean
+- Variance
+- Standard Deviation
+- Maximum
+- Minimum
+- Sum
+
+for rows, columns, and the flattened 3×3 matrix.
